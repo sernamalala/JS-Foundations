@@ -1,0 +1,13 @@
+*{
+    font-family: monospace;
+}
+body{
+    box-sizing: border-box;
+}
+
+.colour-change{
+    font-size: 2rem;
+    border-radius: 30px;
+    background-color: chartreuse;
+  
+}
